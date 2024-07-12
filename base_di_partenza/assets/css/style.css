@@ -50,7 +50,7 @@ header{
     margin-bottom: 30px;
 }
 .hero{
-    height: 300px;
+    height: 350px;
     display: flex;
     margin-left:10%
     
@@ -193,4 +193,11 @@ hr{
     position: relative;
     top: 70px;
     right: 30px;
+}
+.news h6, .news p {
+    font-size: 1.1em;
+    opacity: 0.5;
+}
+.curious p{
+    margin-bottom: 30px ;
 }
